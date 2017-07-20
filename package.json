@@ -1,0 +1,19 @@
+{
+  "name": "another-enum-test",
+  "version": "0.0.4",
+  "description": "Tests for another-enum package",
+  "main": "*.test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magnaar/another-enum-test.git"
+  },
+  "author": "Magnaar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magnaar/another-enum-test/issues"
+  },
+  "homepage": "https://github.com/magnaar/another-enum-test#readme"
+}
